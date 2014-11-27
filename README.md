@@ -61,7 +61,7 @@ try:
   The power is out""" # % (toaddrs)
 
   username = 'm.speakman89@googlemail.com'
-  password = '1nfinity'
+  password = 'myPassword'
 
   # Define GPIO to LCD mapping
   LCD_RS = 7
