@@ -31,7 +31,6 @@ This file is for the Raspberry Pi. It will take a temperature from a DS18B20 the
 # 15: LCD Backlight +5V**
 # 16: LCD Backlight GND
 
-#import
 try:
   import RPi.GPIO as GPIO
   import time
